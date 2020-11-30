@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054773699655",
+    "firebase_url": "https://crudclient-b2ad9.firebaseio.com",
+    "project_id": "crudclient-b2ad9",
+    "storage_bucket": "crudclient-b2ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054773699655:android:162b9e8da301e693af3d62",
+        "android_client_info": {
+          "package_name": "com.rogelio.segundoparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054773699655-sjb3vs1uigtf14ckd7r1d769vstgcias.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rogelio.segundoparcial",
+            "certificate_hash": "731015ed541ac5a3f714fe3ac24b1093574b1fe7"
+          }
+        },
+        {
+          "client_id": "1054773699655-rn7qer84aerjibnjhiktade1g6clsud8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo4ixenG8PITs6edxMqsbm9xqaXbiH3ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054773699655-rn7qer84aerjibnjhiktade1g6clsud8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
